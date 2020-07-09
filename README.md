@@ -4,6 +4,7 @@ Fourth Year Computer Software Engineering Co-op Student at the University of Alb
 https://arun.woosaree.xyz
 
 My favourite language at the moment is Rust 🦀
+
 <img src="https://github.com/rochacbruno/rust_memes/blob/master/img/unsafe_badge.jpg" width=128/>
 
 ###### I use Arch, btw
