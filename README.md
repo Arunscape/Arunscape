@@ -6,8 +6,6 @@ https://arun.woosaree.xyz
 My favourite language at the moment is Rust 🦀
 Here's a full-stack project I worked on with some friends in Rust. https://git.io/JJOGe
 
-<img src="https://github.com/rochacbruno/rust_memes/blob/master/img/unsafe_badge.jpg" width=128/>
-
 ###### I use Arch, btw
 ###### Dotfiles: https://github.com/Arunscape/dotfiles
 ###### Arch Linux Install Script: https://github.com/Arunscape/arch-install-config
