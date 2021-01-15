@@ -1,10 +1,16 @@
 ### Arun Woosaree
-Fourth Year Computer Software Engineering Co-op Student at the University of Alberta 
+Final Year Computer Software Engineering Co-op Student at the University of Alberta (Grad. December 2021)
 
-https://arun.woosaree.xyz
+👀 I'm Looking for a job at the moment! I am available:
+- May 1, 2021 to August 31, 2021
+- January 2022 onwards
+
+✉️: arun@woosaree.xyz
+
+🖥️: https://arun.woosaree.xyz
 
 My favourite language at the moment is Rust 🦀
-Here's a full-stack project I worked on with some friends in Rust. https://git.io/JJOGe
+Here's a full-stack project I worked on with some friends: https://git.io/JJOGe
 
 ###### I use Arch, btw
 ###### Dotfiles: https://github.com/Arunscape/dotfiles
