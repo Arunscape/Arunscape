@@ -1,7 +1,6 @@
 ### Arun Woosaree
-Final Year Computer Software Engineering Co-op Student at the University of Alberta (Grad. December 2021)
-
-👀 I'm Looking for a job at the moment! I am available starting January 2022!
+###### Bsc. Computer Engineering Software Co-op
+###### University of Alberta
 
 ✉️: arun@woosaree.xyz
 
