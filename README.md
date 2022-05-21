@@ -2,9 +2,9 @@
 ###### Bsc. Computer Engineering Software Co-op
 ###### University of Alberta
 
-✉️: arun@woosaree.xyz
+✉️: arun@arun.gg
 
-🖥️: https://arun.woosaree.xyz
+🖥️: https://arun.gg
 
 My favourite language at the moment is Rust 🦀
 Here's a full-stack project I worked on with some friends: https://git.io/JJOGe
