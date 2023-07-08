@@ -9,7 +9,6 @@
 My favourite language at the moment is Rust 🦀
 Here's a full-stack project I worked on with some friends: https://git.io/JJOGe
 
-###### I use Arch, btw
 ###### Dotfiles: https://github.com/Arunscape/dotfiles
 ###### Arch Linux Install Script: https://github.com/Arunscape/arch-install-config
 <!--
